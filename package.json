@@ -1,0 +1,11 @@
+{
+  "name": "downloader-backend",
+  "version": "1.0.0",
+  "description": "Backend downloader for Blogger",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "youtube-dl-exec": "^2.5.10"
+  }
+}
